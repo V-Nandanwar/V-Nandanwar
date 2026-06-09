@@ -12,5 +12,5 @@
 **[Power Quality Analyzer](https://github.com/V-Nandanwar/Power-Quality-Analyzer)** — a low-cost (₹2,500) STM32 + ESP8266 device that measures live mains parameters (RMS voltage/current, power, power factor, harmonics/THD), shows them on a TFT, and streams them to a browser dashboard. Validated against a Fluke meter — includes a demo video.
 
 ### 📫 Get in touch
-- Email: **vmnandanwar@gmail.com**
+- Email: **vedant.nandanwar.eng@gmail.com**
 - Open to freelance embedded/IoT projects.
